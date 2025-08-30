@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>images/home_view.png</file>
+        <file>sounds/buzzersound.wav</file>
+        <file>sounds/chimesound.wav</file>
+    </qresource>
+</RCC>
